@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey there! My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
-Join my [news channel](https://t.me/ProIndians) to get information on all the latest updates.
+
 """
 
 HELP_STRINGS = """
@@ -30,7 +30,7 @@ I have lots of handy features, such as flood control, a warning system, a note k
 *Helpful commands*:
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
-- /donate: Gives you info on how to support me and my creator.
+
 
 {}
 All commands can be used with the following: / !
